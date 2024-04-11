@@ -1,10 +1,3 @@
-/*
-bcw62 - Ben Wiggins
-kpl56 - Keith Lehman
-Used kill.cs.rutgers.edu
-CS 416
-*
-*/
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>

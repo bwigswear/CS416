@@ -1,10 +1,3 @@
-// File:	thread-worker.c
-
-// bcw62 - Ben Wiggins
-// kpl56 - Keith Lehman
-// Used kill.cs.rutgers.edu
-// CS 416
-
 #include "thread-worker.h"
 #include <ucontext.h>
 #include <string.h>

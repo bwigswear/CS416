@@ -1,7 +1,3 @@
-//Keith Lehman kpl56
-//Benjamin Wiggins bcw62
-
-
 #include "my_vm.h"
 
 void* memstart = NULL; 

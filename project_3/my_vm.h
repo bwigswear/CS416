@@ -1,6 +1,3 @@
-//Keith Lehman kpl56
-//Benjamin Wiggins bcw62
-
 #ifndef MY_VM_H_INCLUDED
 #define MY_VM_H_INCLUDED
 #include <stdbool.h>

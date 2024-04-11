@@ -1,10 +1,3 @@
-// File:	worker_t.h
-
-// bcw62 - Ben Wiggins
-// kpl56 - Keith Lehman
-// Used kill.cs.rutgers.edu
-// CS 416
-
 #ifndef WORKER_T_H
 #define WORKER_T_H
 
